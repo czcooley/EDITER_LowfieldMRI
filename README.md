@@ -1,3 +1,3 @@
 # EDITER for Low field MRI
-Submitted to MRM 17 Apr 2021
+Submitted to MRM
 EMI correction method using external detectors
